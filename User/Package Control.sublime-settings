@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Auto Semi-Colon",
+		"Autocomplete Javascript with Method Signature",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Emmet",
+		"FileDiffs",
+		"GitGutter",
+		"Gitignore",
+		"HTML5",
+		"JavaScript Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"KeymapManager",
+		"Package Control",
+		"Pretty JSON",
+		"Rails Partial",
+		"Ruby on Rails snippets",
+		"SublimeHg",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}
